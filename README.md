@@ -1,6 +1,6 @@
 # PCA: EXP-1  SUM ARRAY GPU
-**Name: ARJUN N S** 
-**Register Number: 212223230020** 
+**Name: sowmya badoni** 
+**Register Number: 212223230211** 
 <h3>EX. NO: 01</h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
